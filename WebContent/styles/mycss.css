@@ -1,0 +1,58 @@
+
+* {
+    box-sizing: border-box;
+    margin:     0;
+    padding:    0;
+}
+
+
+.container {
+    
+    padding-top: 100px;
+
+
+.form-signin-heading {
+    padding-bottom: 25px;
+}
+
+.setMargin {
+    margin-bottom: 20px;
+
+}
+
+
+/**
+ * profile/index
+ */
+
+.btn.btn-outline-success.my-2.my-sm-0 {
+    margin-right: 10px;
+}
+
+.form-control.post {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/**
+ * other
+ */
+#inline {
+    display: inline;
+}
+
+
+
+ul {
+  list-style: none;
+}
+
+.myPage {
+    text-align: center;
+}
+
+.error {
+	color: red;
+}
+
+
